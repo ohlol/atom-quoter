@@ -1,0 +1,18 @@
+{
+  "name": "atom-quoter",
+  "main": "./lib/atom-quoter",
+  "version": "0.1.0",
+  "description": "Quote strings.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-quoter:quote"
+  },
+  "repository": "https://github.com/ohlol/atom-quoter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
