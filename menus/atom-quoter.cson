@@ -3,7 +3,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'atom-quoter'
+      'label': 'Quoter'
       'submenu': [
         {
           'label': 'Quote'
